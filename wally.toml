@@ -5,3 +5,5 @@ registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
 [dependencies]
+fusion = "elttob/fusion@0.3.0"
+charm = "littensy/charm@0.10.0"
